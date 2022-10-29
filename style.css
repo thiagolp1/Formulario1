@@ -1,0 +1,17 @@
+body{
+    background-image: url(imagens/Fundo1.jfif);
+    color: white;
+}
+label{
+    display: flex;
+    justify-content: center;
+}
+
+form{
+   
+    padding: 97px;
+    margin: 0% auto;
+    display: flex;
+    flex-flow: column;
+    width: 200px;
+}
